@@ -1,2 +1,2 @@
-# exerc-cios_de_l-gica
+# exercicios_de_logica
 exercícios para praticar a lógica de programação.
